@@ -1,0 +1,96 @@
+#navbar{
+ display: flex;
+ border: 1px solid white ;
+ gap : 25%;
+ 
+}
+#body{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#nav{
+    padding: 20px;
+}
+h2{
+    align-self: top;
+}
+#nav2{
+    gap:15%;
+    display: flex;
+    align-items: flex-start;
+}
+#button1{
+    padding:10px;
+    background-color: black;
+    color:white;
+    width: 200px;
+    height: 45px;
+    border-radius: 20px;
+    font-size: 15px;
+
+}
+#login{
+padding: 4%;
+}
+#top{
+    padding: 10px;
+    width: 300px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+#start{
+    padding: 15px;
+    width: 250px;
+    font-size: 15px;
+    background: black;
+    color: white;
+    border-radius: 20px;
+
+}
+#section{
+    display: flex;
+    gap: 25%;
+}
+#img1{
+    border:1px solid white;
+    margin-bottom: 20px;
+}
+#left{
+    border: 1px solid white;
+    padding: 10px;
+}
+#section1{
+    display: flex;
+    gap: 12%;
+    align-items: center;
+    border: 1px solid white;
+    padding:30px;
+}
+#button2{
+border-radius: 20px;
+padding : 10px;
+font-size: 15px;
+width: 260px;
+background-color: rgb(255, 174, 0);
+}
+#div1{
+    border: 1px solid white;
+}
+#div2{
+    border: 1px solid white;
+    padding: 50px;
+}
+#section2{
+    display:flex;
+    gap: 5%;   
+}
+#button3{
+    padding: 10px;
+    font-size: 15px;
+    width: 260px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+#div3{
+    margin-left: 40%;
+}
