@@ -10,6 +10,7 @@
 }
 #nav{
     padding: 20px;
+    font-size: 17px;
 }
 h2{
     align-self: top;
@@ -93,4 +94,163 @@ background-color: rgb(255, 174, 0);
 }
 #div3{
     margin-left: 40%;
+}
+#div4{
+    display: flex;
+    gap: 1%;
+}
+#div5{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div6{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div7{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div8{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div9{
+    display: flex;
+    gap: 1%;
+
+}
+#div11{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div12{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div13{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#div10{
+    border: 1px solid;
+    width: 450px;
+    text-align: center;
+    border-radius: 8px;
+}
+#button4{
+    border-radius: 20px;
+padding : 10px;
+font-size: 15px;
+width: 260px;
+background-color: rgb(209, 128, 209);
+}
+.image{
+    width: 30px;
+    margin-top:1%;
+}
+#section3{
+    display: flex;
+    gap: 30%;
+}
+#div14{
+    align-items: center;
+    width:90%;
+    padding-left: 30px;
+    padding-top: 40px;
+    
+}
+#heading{
+    color: white;
+}
+#div15{
+    display:flex;
+    gap: 13%;
+    align-items: center;
+    padding: 50px;
+}
+#div16{
+    border: 1px solid;
+    width: 400px;
+    height: 600px;
+    align-items: center;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+
+
+}
+#div17{
+    padding: 30px;
+    margin-left: 35%;
+}
+#button5{
+    border-radius: 20px;
+    padding : 10px;
+    font-size: 15px;
+    width: 260px;
+    background-color: rgb(238, 172, 30);
+}
+#button6{
+   width: 350px;
+   padding: 15px;
+   border-radius: 20px;
+}
+#button7{
+    width: 350px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+#button8{
+    width: 350px;
+    padding: 15px;
+    border-radius: 20px;
+}
+#section4{
+    background-color: black;
+    border-radius:50px;
+}
+#button9{
+    width: 180px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+#button10{
+    width:350px;
+    padding:15px;
+    border-radius: 20px;
+    background-color: black;
+    color: beige;
+}
+#section5{
+    display: flex;
+    gap: 40%;
+    padding: 100px;
+}
+#div18{
+    border: 1px solid;
+    align-items: center;
+    width: 600px;
+    padding: 30px;
+    margin-bottom: 50%;
+}
+.input{
+    width: 400px;
 }
